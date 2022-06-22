@@ -19,4 +19,4 @@ NOTE - It is highly recommended that one first watches/reads the presentation pr
 
 ### Summary
 
-May not be necessary
+May not be necessary because cats are my favorite animal
