@@ -1,4 +1,4 @@
-## Automated Wildlife Conservation and Innovation Grant
+## Automated Wildlife Conservation and Innovation
 
 
 [```About```](#about) / [```Publications```](#publications) /  [```Team```](#team) / [```Summary```](#summary)
