@@ -5,9 +5,9 @@
 
 
 ### About
-This folder contains all relevant information//methdology for the creation of synthetic training data using preserved herpteofauna specimen.
 
-NOTE - It is highly recommended that one first watches/reads the presentation provided for a consicise overview of what this process entails THEN begin unpacking the SOP provided.
+***Our goal is to create new, inexpensive, standardized, open-source technology that can be used to monitor insect pollinators, reptiles and amphibians, and cavity nesting bird nests.***
+
 
 
 ### Publications
