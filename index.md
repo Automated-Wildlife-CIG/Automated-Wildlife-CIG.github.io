@@ -26,6 +26,8 @@ While many land agricultural producers wish to act as responsible stewards for b
 
 #### Chris Evelyn 
 
+<img src="images/chris_evelyn_bio.png" width="300" />
+
 ***PhD, Assistant Researcher and Vertebrate Curatorial Manager UC Santa Barbara, Cheadle Center for Biodiversity and Ecological Restoration***
 
 Chris is in charge of the development, testing, and validation of the reptile and amphibian devices for this project. Dr. Evelyn is an Assistant Researcher and the Vertebrate Curatorial Manager at UC Santa Barbara who specializes in herpetology and has conducted field research on the ranches in California for more than 15 years. Chris has conducted ecological research on amphibians and reptiles across California and Mexico, offering species identification expertise for training artificial intelligence on the images. Dr. Evelyn’s master’s research explored non-traditional methods for the valuation and profitability of cattle ranches in Monterrey, California. He is currently PI on a sister NRCS CIG project for the state of California. 
@@ -42,6 +44,12 @@ Chris is in charge of the development, testing, and validation of the reptile an
 ***Ph.D., Associate Researcher & Director of the UC Santa Barbara Cheadle Center for Biodiversity and Ecological Restoration.***
 
  Katja’s research program is in biodiversity data science and entomology. She studies systematics and morphology of Hymenoptera, and insect ecology in coastal restoration habitats. She is also PI on the [Big-Bee project](http://big-bee.net/) focused on creating 2D and 3D image libraries of bees from natural history collection specimens for computer vision applications. Big-Bee, funded by the National Science Foundation, includes over thirteen institutions in the US. Katja also regularly creates artworks under the name [Irene Moon](https://www.begoniasociety.org/) that bring the aesthetics of the entomology laboratory in front of audiences in the form of absurd, factual presentations about insects, musical recordings, radio, and performances connecting science and fable. Website
+
+#### Seth Frazer
+
+***Student Researcher, Ecology Evolution and Marine Biology Department Graduate Student at UC Santa Barbara.***
+
+Seth is a recent graduate of the Biology B.S. program at UCSB, and is now a first year master’s student of the Oakley Lab in the EEMB department. His undergraduate research project focused on the methodology development and execution of generating synthetic image training data of Herpetofauna to train taxonomic/region specific species identification image classifier machine learning models. As a part of his master’s study, Seth is collecting data for and developing a relational database of opsin gene information across a wide-range of taxonomic clades. He will then use this data to build a machine learning model that is capable of predicting the lambda max/peak absorbance values of a given, previously unseen opsin gene. Seth is also a competitive road running athlete, competing in all distances from 5K’s to Marathons. It's through this excursion that he says he is able better balance his mind, body, and scholastic pursuits.
 
 ### Summary
 
