@@ -2,7 +2,7 @@
 layout: default
 ---
 
-
+# Automated Wildlife Conservation and Innovation
 
 [```About```](#about) / [```Publications```](#publications) /  [```Team```](#team) / [```Summary```](#summary)
 
