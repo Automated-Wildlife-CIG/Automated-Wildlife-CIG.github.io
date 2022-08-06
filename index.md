@@ -11,7 +11,7 @@ layout: default
 
 ***Our goal is to to create an easy to use, automated, open-source wildlife monitoring system that agricultural producers can use and that can be easily customized by developers and researchers.***
 
-#### Background
+### Background
 While many land agricultural producers wish to act as responsible stewards for biodiversity, there is often a paucity of data available on wildlife populations on their land. The United States Department of Agriculture (USDA), through the National Resource Conservation Service (NRCS), is seeking tractable techological and methodological solutions to this challenge. NRCS has provided support for this project in order to incentivize wildlife conservation by producers and stewards on working lands. Hiring specialist biologists to survey these lands is often prohibitively costly and can complicate activities on working lands. Our chosen solution is to provide site-specific year-long monitoring by pairing machine learning tools to sort images from an automated camera that can be deployed for up to 1 year.
 
 
@@ -19,14 +19,13 @@ While many land agricultural producers wish to act as responsible stewards for b
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6603940.svg)](https://doi.org/10.5281/zenodo.6603940)
 
-
-<img src="images/bee.png" width="300" />
+[![Github](https://img.shields.io/badge/Github-animating--the--dead-yellow)](https://github.com/Automated-Wildlife-CIG/animating-the-dead)
  
 ### Team
 
 #### Chris Evelyn 
 
-<img src="images/chris_evelyn_bio.png" width="300" />
+<img src="images/chris_evelyn_bio.jpg" width="300" />
 
 ***PhD, Assistant Researcher and Vertebrate Curatorial Manager UC Santa Barbara, Cheadle Center for Biodiversity and Ecological Restoration***
 
