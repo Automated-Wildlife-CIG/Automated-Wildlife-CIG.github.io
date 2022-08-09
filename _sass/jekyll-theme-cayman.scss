@@ -132,7 +132,7 @@ a {
   background-size:100%;
   background-image: url('../../images/banner_trial_2.jpg');
   background-repeat:no-repeat;
-  object-fit: cover;
+  object-fit: contain;
   overflow: hidden;
 
   @include large {
@@ -149,19 +149,19 @@ a {
 }
 
 .project-name {
-  margin-top: 0;
-  margin-bottom: 0.1rem;
+  margin-top: -4.5rem;
+  margin-bottom: 2rem;
 
   @include large {
-    font-size: 3.25rem;
-  }
-
-  @include medium {
     font-size: 2.25rem;
   }
 
+  @include medium {
+    font-size: 1.25rem;
+  }
+
   @include small {
-    font-size: 1.75rem;
+    font-size: 1rem;
   }
 }
 

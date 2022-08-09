@@ -50,5 +50,9 @@ Chris is in charge of the development, testing, and validation of the reptile an
 
 Seth is a recent graduate of the Biology B.S. program at UCSB, and is now a first year master’s student of the Oakley Lab in the EEMB department. His undergraduate research project focused on the methodology development and execution of generating synthetic image training data of Herpetofauna to train taxonomic/region specific species identification image classifier machine learning models. As a part of his master’s study, Seth is collecting data for and developing a relational database of opsin gene information across a wide-range of taxonomic clades. He will then use this data to build a machine learning model that is capable of predicting the lambda max/peak absorbance values of a given, previously unseen opsin gene. Seth is also a competitive road running athlete, competing in all distances from 5K’s to Marathons. It's through this excursion that he says he is able better balance his mind, body, and scholastic pursuits.
 
-### Summary
+### Contact
+
+
+
+
 
