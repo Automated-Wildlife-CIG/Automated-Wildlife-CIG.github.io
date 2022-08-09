@@ -125,33 +125,50 @@ a {
 }*/
 
 .page-header{
-  background-image: url('banner_trial_1.jpg');
-  background-size:100% 100%;
-  height: 320px;
+  vertical-align: top;
   text-align: center;
-}
+  font-weight: 100;
 
-.project-name {
-  margin-top: 0;
-  margin-bottom: 0.1rem;
+  background-size:100%;
+  background-image: url('../../images/banner_trial_2.jpg');
+  background-repeat:no-repeat;
+  object-fit: contain;
+  overflow: hidden;
 
   @include large {
-    font-size: 3.25rem;
+    padding: 5rem 6rem;
   }
 
   @include medium {
-    font-size: 2.25rem;
+    padding: 3rem 4rem;
   }
 
   @include small {
-    font-size: 1.75rem;
+    padding: 2rem 1rem;
+  }
+}
+
+.project-name {
+  margin-top: -4.5rem;
+  margin-bottom: 2rem;
+
+  @include large {
+    font-size: 2.25rem;
+  }
+
+  @include medium {
+    font-size: 1.25rem;
+  }
+
+  @include small {
+    font-size: 1rem;
   }
 }
 
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: normal;
-  opacity: 0.7;
+  opacity: 0.8;
 
   @include large {
     font-size: 1.25rem;
