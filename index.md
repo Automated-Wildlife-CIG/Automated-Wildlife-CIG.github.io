@@ -25,7 +25,7 @@ While many land agricultural producers wish to act as responsible stewards for b
 
 #### Chris Evelyn 
 
-<img src="images/chris_evelyn_bio.jpg" width="300" />
+<img src="images/chris_evelyn_bio.JPG" width="300" />
 
 ***PhD, Assistant Researcher and Vertebrate Curatorial Manager UC Santa Barbara, Cheadle Center for Biodiversity and Ecological Restoration***
 
