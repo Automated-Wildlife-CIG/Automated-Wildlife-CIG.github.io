@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Automated Wildlife Conservation and Innovation
+# Creating synthetic and site specific ML training datasets for conservation
 
-[```About```](#about) / [```Publications```](#publications) /  [```Team```](#team) / [```Summary```](#summary)
+[```About```](#about) / [```Publications```](#publications) /  [```Team```](#team) / [```Contact```](#contact)
 
 
 ### About
@@ -52,7 +52,11 @@ Seth is a recent graduate of the Biology B.S. program at UCSB, and is now a firs
 
 ### Contact
 
+[**Cheadle Center for Biodiversity and Ecological Restoration**](https://www.ccber.ucsb.edu/)
 
+**Address:** Harder South Building 578, Santa Barbara, CA 93106
+
+**Email:** christopher_evelyn@ucsb.edu
 
 
 
