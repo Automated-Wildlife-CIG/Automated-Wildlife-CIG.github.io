@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Creating synthetic and site specific ML training datasets for conservation
+# Aminated the Wild Life
 
 [```About```](#about) / [```Publications```](#publications) /  [```Team```](#team) / [```Contact```](#contact)
 
