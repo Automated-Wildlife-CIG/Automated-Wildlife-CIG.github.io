@@ -2,24 +2,23 @@
 layout: default
 ---
 
-# Aminated the Wild Life
+# Resources for Automated Wildlife Research
 
-[```About```](#about) / [```Publications```](#publications) /  [```Team```](#team) / [```Contact```](#contact)
+[```About```](#about) / [```Project```](#project) /  [```Team```](#team) / [```Contact```](#contact)
 
 
 ### About
 
-***Our goal is to to create an easy to use, automated, open-source wildlife monitoring system that agricultural producers can use and that can be easily customized by developers and researchers.***
+***Our goal is to to create an easy to use, automated, open-source wildlife monitoring system available for local stakeholders that can be easily customized by developers and researchers.***
 
 ### Background
-While many land agricultural producers wish to act as responsible stewards for biodiversity, there is often a paucity of data available on wildlife populations on their land. The United States Department of Agriculture (USDA), through the National Resource Conservation Service (NRCS), is seeking tractable techological and methodological solutions to this challenge. NRCS has provided support for this project in order to incentivize wildlife conservation by producers and stewards on working lands. Hiring specialist biologists to survey these lands is often prohibitively costly and can complicate activities on working lands. Our chosen solution is to provide site-specific year-long monitoring by pairing machine learning tools to sort images from an automated camera that can be deployed for up to 1 year.
+Camera traps allow researchers to essentially be in two places at once for gathering data on their study species. Sorting through camera trap images to find taxa of interest can be a labor-intensive exercise. This is particularly true for small taxa or ectoherms because the trigger system of most camera traps does not detect these taxa reliably. In this project we are exploring methods of detection, data management, and analysis to expand the toolbox for researchers who wish to use camera traps for field studies in ecology or conservation. This reserch is supported by US Department of Agriulture, The Nature Conservancy, Ranchers for Responsible Consesrvation, University of California Santa Barbara, and Texas A&M University.
+
+### Project
 
 
-### Publications
+[Link to project](./project.html).
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6603940.svg)](https://doi.org/10.5281/zenodo.6603940)
-
-[![Github](https://img.shields.io/badge/Github-animating--the--dead-yellow)](https://github.com/Automated-Wildlife-CIG/animating-the-dead)
  
 ### Team
 
@@ -27,9 +26,9 @@ While many land agricultural producers wish to act as responsible stewards for b
 
 <img src="images/chris_evelyn_bio.JPG" width="300" />
 
-***PhD, Assistant Researcher and Vertebrate Curatorial Manager UC Santa Barbara, Cheadle Center for Biodiversity and Ecological Restoration***
+***PhD, Assistant Researcher & Vertebrate Curatorial Manager UC Santa Barbara, Cheadle Center for Biodiversity and Ecological Restoration***
 
-Chris is in charge of the development, testing, and validation of the reptile and amphibian devices for this project. Dr. Evelyn is an Assistant Researcher and the Vertebrate Curatorial Manager at UC Santa Barbara who specializes in herpetology and has conducted field research on the ranches in California for more than 15 years. Chris has conducted ecological research on amphibians and reptiles across California and Mexico, offering species identification expertise for training artificial intelligence on the images. Dr. Evelyn’s master’s research explored non-traditional methods for the valuation and profitability of cattle ranches in Monterrey, California. He is currently PI on a sister NRCS CIG project for the state of California. 
+Chris Evelyn is a herpetologist with an interest in the evolution of diversity in amphibians and reptiles. His research to date has focused on speciation, morphological evolution, and ecological patterns across spatial scales from microhabitat to biogeography. This has lead him to develop new camera-trap methods for gathering data for species which are difficult to detect in the wild. Chris is passionate about outdoor education and conservation. Before returning to school he taught environmental education on Santa Catalina Island and continues to enjoy outreach and mentoring with students through cooperative projects with NGOs, state agencies, and federal agencies. Chris spent 2018 in Mexico studying parapatric speciation in the salamanders of Oaxaca as a UC Mexus Postdoctoral Fellow.
 
 #### Doug Bonham
 ***Collaborator, senior Electronics Engineer, President of Field Data Technologies.***
