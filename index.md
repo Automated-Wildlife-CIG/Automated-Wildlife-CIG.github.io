@@ -16,7 +16,6 @@ Camera traps allow researchers to essentially be in two places at once for gathe
 
 ### Project
 
-
 [Link to project](./project.html).
 
  
@@ -33,6 +32,8 @@ Chris Evelyn is a herpetologist with an interest in the evolution of diversity i
 #### Doug Bonham
 ***Collaborator, senior Electronics Engineer, President of Field Data Technologies.***
 
+<img src="images/doug_bonham_bio.jpg" width="300" />
+
  He has sixteen years of experience designing instrumentation for high profile wildlife research projects. His wildlife instrumentation projects include custom tracking and behavior logging devices for sharks, sea turtles, whales, condors, eagles, owls, sage grouse, deer, elk, bighorn sheep, beaver and marsupials. He designed novel GPS devices for Microsoft Research as well as eight years of experience on Microsoft’s Surface Pro computers, tablets and dual-screen phones. He was the principal electronics designer for an NSF-funded innovative hybrid GPS wildlife tracking system (NSF Award 1063364) and is currently designing wildlife instrumentation funded by USDA and NOAA. Doug’s bird nest monitoring devices that will be used for this project are being supported by a matching grant from Microsoft’s AI for Earth program. Doug will be the lead electronics engineer for this research and will be responsible for creation of the monitoring system hardware. Doug was the founder and president of Field Data Technologies which is a 401(c)3 nonprofit dedicated to designing and promoting smart camera imaging devices for wildlife field research.
 
 #### Dr. Katja Seltmann
@@ -48,6 +49,19 @@ Chris Evelyn is a herpetologist with an interest in the evolution of diversity i
 ***Student Researcher, Ecology Evolution and Marine Biology Department Graduate Student at UC Santa Barbara.***
 
 Seth is a recent graduate of the Biology B.S. program at UCSB, and is now a first year master’s student of the Oakley Lab in the EEMB department. His undergraduate research project focused on the methodology development and execution of generating synthetic image training data of Herpetofauna to train taxonomic/region specific species identification image classifier machine learning models. As a part of his master’s study, Seth is collecting data for and developing a relational database of opsin gene information across a wide-range of taxonomic clades. He will then use this data to build a machine learning model that is capable of predicting the lambda max/peak absorbance values of a given, previously unseen opsin gene. Seth is also a competitive road running athlete, competing in all distances from 5K’s to Marathons. It's through this excursion that he says he is able better balance his mind, body, and scholastic pursuits.
+
+#### Dr. Constance Woodman
+
+***Ph.D., Program Manager, Department of Veterinary Pathobiology at Texas A&M University***
+
+Connie is a PI on two SBIR grants, from USDA and NOAA, to develop wildlife smart camera technology. Her work at Texas A&M involves coordinating multiple university member to create and validate open source smart cameras, funded by the USDA Conservation Innovation Grants program. She works with conservation breeding and breed & release programs. Connie oversees a conservation medicine internship program outside of Austin, TX. By partnering with exotic bird breeders, the internship creates hands-on learning with birds for early career conservation professionals. 
+
+#### Connor Foley
+
+***Undergraduate Student Researcher,, Department of Biochemistry and Entomology at Mississippi State University***
+
+Connor is a junior undergraduate at Mississippi State University. 
+
 
 ### Contact
 
