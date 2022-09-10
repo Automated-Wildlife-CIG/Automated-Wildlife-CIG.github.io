@@ -4,7 +4,7 @@ layout: default
 
 # Resources for Automated Wildlife Research
 
-[```About```](#about) / [```Project```](#project) /  [```Team```](#team) / [```Contact```](#contact)
+[```About```](#about) / [```Projects```](#projects) /  [```Team```](#team) / [```Contact```](#contact)
 
 
 ### About
@@ -14,14 +14,14 @@ layout: default
 ### Background
 Camera traps allow researchers to essentially be in two places at once for gathering data on their study species. Sorting through camera trap images to find taxa of interest can be a labor-intensive exercise. This is particularly true for small taxa or ectoherms because the trigger system of most camera traps does not detect these taxa reliably. In this project we are exploring methods of detection, data management, and analysis to expand the toolbox for researchers who wish to use camera traps for field studies in ecology or conservation. This reserch is supported by US Department of Agriulture, The Nature Conservancy, Ranchers for Responsible Consesrvation, University of California Santa Barbara, and Texas A&M University.
 
-### Project
+### Projects
 
-[Link to project](./project.html).
+[Creating synthetic and site specific ML training datasets for conservation](./project_1.html).
 
  
 ### Team
 
-#### Chris Evelyn 
+#### Dr. Chris Evelyn 
 
 <img src="images/chris_evelyn_bio.JPG" width="300" />
 
@@ -30,9 +30,10 @@ Camera traps allow researchers to essentially be in two places at once for gathe
 Chris Evelyn is a herpetologist with an interest in the evolution of diversity in amphibians and reptiles. His research to date has focused on speciation, morphological evolution, and ecological patterns across spatial scales from microhabitat to biogeography. This has lead him to develop new camera-trap methods for gathering data for species which are difficult to detect in the wild. Chris is passionate about outdoor education and conservation. Before returning to school he taught environmental education on Santa Catalina Island and continues to enjoy outreach and mentoring with students through cooperative projects with NGOs, state agencies, and federal agencies. Chris spent 2018 in Mexico studying parapatric speciation in the salamanders of Oaxaca as a UC Mexus Postdoctoral Fellow.
 
 #### Doug Bonham
-***Collaborator, senior Electronics Engineer, President of Field Data Technologies.***
 
-<img src="images/doug_bonham_bio.jpg" width="300" />
+<img src="images/doug_bonham_bio.jpg" width="200" />
+
+***Collaborator, senior Electronics Engineer, President of Field Data Technologies.***
 
  He has sixteen years of experience designing instrumentation for high profile wildlife research projects. His wildlife instrumentation projects include custom tracking and behavior logging devices for sharks, sea turtles, whales, condors, eagles, owls, sage grouse, deer, elk, bighorn sheep, beaver and marsupials. He designed novel GPS devices for Microsoft Research as well as eight years of experience on Microsoft’s Surface Pro computers, tablets and dual-screen phones. He was the principal electronics designer for an NSF-funded innovative hybrid GPS wildlife tracking system (NSF Award 1063364) and is currently designing wildlife instrumentation funded by USDA and NOAA. Doug’s bird nest monitoring devices that will be used for this project are being supported by a matching grant from Microsoft’s AI for Earth program. Doug will be the lead electronics engineer for this research and will be responsible for creation of the monitoring system hardware. Doug was the founder and president of Field Data Technologies which is a 401(c)3 nonprofit dedicated to designing and promoting smart camera imaging devices for wildlife field research.
 
@@ -66,6 +67,11 @@ Connie is a PI on two SBIR grants, from USDA and NOAA, to develop wildlife smart
 
 Connor is a junior undergraduate at Mississippi State University. 
 
+### Dr. Donald J. Brightsmith
+
+<img src="images/donald_brightsmith_bio.JPG" width="200" />
+
+***Associate Professor of Ecosystem Health in the Department of Veterinary Pathobiology and the Schubot Avian Health Center at Texas A&M University***
 
 ### Contact
 
