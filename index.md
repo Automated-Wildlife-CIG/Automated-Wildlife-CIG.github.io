@@ -39,7 +39,7 @@ Chris Evelyn is a herpetologist with an interest in the evolution of diversity i
 
 #### Dr. Katja Seltmann
 
-<img src="images/katja_seltmann_bio.png" width="300" />
+<img src="images/katja_seltmann_bio.png" width="200" />
 
 ***Ph.D., Associate Researcher & Director of the UC Santa Barbara Cheadle Center for Biodiversity and Ecological Restoration.***
 
@@ -51,11 +51,15 @@ Her current research includes understanding global pollinator and insect decline
 
 #### Seth Frazer
 
+<img src="images/seth_frazer_bio.jpeg" width="200" />
+
 ***Student Researcher, Ecology Evolution and Marine Biology Department Graduate Student at UC Santa Barbara.***
 
 Seth is a recent graduate of the Biology B.S. program at UCSB, and is now a first year master’s student of the Oakley Lab in the EEMB department. His undergraduate research project focused on the methodology development and execution of generating synthetic image training data of Herpetofauna to train taxonomic/region specific species identification image classifier machine learning models. As a part of his master’s study, Seth is collecting data for and developing a relational database of opsin gene information across a wide-range of taxonomic clades. He will then use this data to build a machine learning model that is capable of predicting the lambda max/peak absorbance values of a given, previously unseen opsin gene. Seth is also a competitive road running athlete, competing in all distances from 5K’s to Marathons. It's through this excursion that he says he is able better balance his mind, body, and scholastic pursuits.
 
 #### Dr. Constance Woodman
+
+<img src="images/constance_woodman_bio.jpeg" width="200" />
 
 ***Ph.D., Program Manager, Department of Veterinary Pathobiology at Texas A&M University***
 
@@ -63,13 +67,15 @@ Connie is a PI on two SBIR grants, from USDA and NOAA, to develop wildlife smart
 
 #### Connor Foley
 
+<img src="images/connor_foley_bio.jpg" width="200" />
+
 ***Undergraduate Student Researcher,, Department of Biochemistry and Entomology at Mississippi State University***
 
 Connor is a junior undergraduate at Mississippi State University. 
 
 ### Dr. Donald J. Brightsmith
 
-<img src="images/donald_brightsmith_bio.JPG" width="200" />
+<img src="images/donald_brightsmith_bio.jpg" width="200" />
 
 ***Associate Professor of Ecosystem Health in the Department of Veterinary Pathobiology and the Schubot Avian Health Center at Texas A&M University***
 
